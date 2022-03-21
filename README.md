@@ -1,7 +1,7 @@
 # MQTThing
 
 A command line tool to subscribe to 
-[The Things Network](https://thethings.network) MQTT brokers.
+[The Things Network](https://www.thethingsnetwork.org) MQTT brokers.
 
 ## Installation
 
